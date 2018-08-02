@@ -5,7 +5,7 @@
 
 All mainstream sorting algorithms implemented in C++..
 
-![](sorting.JPG)
+![](sorting.JPG =250x250)
 
 ## Bubble Sort
 
